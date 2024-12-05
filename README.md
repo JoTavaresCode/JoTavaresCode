@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 🌱 Estou frequentemente aprendendo programação Front-end, back-end com interesse futuro em cibersegurança
 - 👯 Gostaria de mudar de carreira, estou à procura de um estágio na área de Tecnologia da informação
 - 📫 Contate-me em josiellitavaresoffice@gmail.com
-- 😄 Gosto de front-end
+- 😄 Gosto de front-end e as logo que estão abaixo estão todas na minha linha de aprendizado
 
 - <div style="display: inline_block"><br>
 
