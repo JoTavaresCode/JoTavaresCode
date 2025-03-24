@@ -1,7 +1,7 @@
 ### Olá! Sou a Jo Tavares Code 👋
 
-- 🔭 Atualmente trabalho em um restaurante, mas no foco para ir para a programação Fullstack
-- 🌱 Estou frequentemente aprendendo programação com um interesse futuro em cibersegurança.
+- 🔭 Atualmente sou estudante de Tecnologia da Informação, mas meu foco é ir para a programação Fullstack.
+- 🌱 Estou frequentemente aprendendo programação com um interesse em cibersegurança.
 - 👯 Estou à procura de um estágio na área de Tecnologia da Informação
 - 📫 Contate-me em josiellitavaresoffice@gmail.com
 - 😄 
