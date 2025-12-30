@@ -3,8 +3,11 @@
 - 🔭 Atualmente trabalho em um restaurante, mas no foco para ir para a programação Fullstack
 - 🌱 Estou frequentemente aprendendo programação com um interesse futuro em cibersegurança.
 - 👯 Estou à procura de um estágio na área de Tecnologia da Informação
+- 😄 Estudante de Tecnologia da Informação - UNIVESP
+- 😄 Estudante de Engenharia de Software - Anhanguera
+
 - 📫 Contate-me em josiellitavaresoffice@gmail.com
-- 😄 
+
 
 
 
